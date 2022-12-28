@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CsvReaderTask</string>
+    <string name="loading">loading Please Wait</string>
+    <string name="report">show report</string>
+    <string name="select">select report file please </string>
+    <string name="file_error_message">please take file with csv or xlsx extension</string>
+    <string name="xls">xls</string>
+    <string name="csv">csv</string>
+    <string name="xlsx">xlsx</string>
+    <string name="showPreview">show Preview</string>
+</resources>
